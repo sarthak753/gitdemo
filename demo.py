@@ -1,5 +1,5 @@
 print("helloworld")
-print("hello samba")
+print("hello students")
 print("hello world")
 print("hrjhhge")
 print("demio")
